@@ -35,3 +35,60 @@ nav a {
 nav a:hover {
     background-color: #8a8aaa;
 }
+.bildes {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ffffff;
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 30%;
+    text-align: center;
+}
+.bilde3 {
+    right: 10cm;
+}
+ .teksts {
+    width: 300px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    position: absolute;
+    left: 1000px;
+    top: 400px; 
+    margin-right: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  table {
+    border-collapse: collapse;
+    margin: 20px;
+    float: left;
+}
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+.teksts-centra {
+    bottom: -27px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #f0f0f0;
+    width: 300px;
+    padding: 20px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    right: 425px
+}
+.apsktobjj {
+    top: 250px;
+    margin: 40px auto;
+    text-align: center;
+    background-color: #f0f0f0;
+    width: 300px;
+    padding: 20px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    right: 550px;
+}
